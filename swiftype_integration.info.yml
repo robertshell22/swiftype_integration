@@ -1,0 +1,6 @@
+name: 'Swiftype integration'
+description: 'Adds Swiftype search form block'
+core: 10.x
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+configure: swiftype_integration.settings_form
